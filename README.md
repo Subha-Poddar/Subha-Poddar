@@ -33,8 +33,8 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Subha-Poddar&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Subha-Poddar&theme=tokyonight" />
 </p>
 
 <!-- Top Languages -->
@@ -47,6 +47,8 @@
 - [Walmart Retail Data Analysis](https://github.com/YourUsername/Walmart-Retail-Data-Analysis)
 - [Customer Churn Prediction](https://github.com/YourUsername/Customer-Churn-Prediction)
 - [Restaurant Business Rankings Analysis](https://github.com/YourUsername/Restaurant-Business-Rankings-Analysis)
+
+
 
 
 
