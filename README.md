@@ -11,11 +11,11 @@
 </p>
 
 <!-- About Me -->
-- 🌱 I’m currently learning **Excel and Tableau**
+- 🌱 I’m currently learning **SQL, Python, Power BI, Excel, Tableau**
 - 👯 I’m looking to collaborate on **Data Analysis and Visualization projects**
 - 💬 Ask me about **Power BI, Python, SQL, and Data Visualization**
 - 📫 How to reach me: **subhapoddar286@gmail.com**
-- ⚡ Fun fact: I love solving puzzles and exploring new data tools!
+- ⚡ Fun fact: I love finding insights from data and exploring new data tools!
   <!-- Cartoon Coder GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="500"/>
