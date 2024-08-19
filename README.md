@@ -1,3 +1,7 @@
+<!-- Data Analyst Image -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="Data Analyst"  />
+</p>
 <!-- Introduction -->
 <h1 align="center">Hi 👋, I'm Subha Poddar</h1>
 <h3 align="center">A passionate Data Analyst enthusiast</h3>
@@ -23,13 +27,34 @@
   <a href="https://www.linkedin.com/in/subha-poddar" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="Subha Poddar" /></a>
   <a href="mailto:subhapoddar286@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="subhapoddar286@gmail.com" /></a>
 </p>
- <h3>🛠️ Languages and Tools:</h3>
-    <p>
-      <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI"/> </a>
-      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://logowik.com/content/uploads/images/microsoft-sql-server4529.jpg" alt="SQL Server" style="width:48px; height:48px;"/></a>
-      <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/></a>
-      <a href="https://www.tableau.com/learn/articles/data-visualization" target="_blank"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Data Visualization"/</a>
-    </p>
+ <!-- Languages and Tools -->
+<h3>🛠️ Languages and Tools:</h3>
+<p align="left">
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+  </a>
+  <a href="https://www.tableau.com/learn/articles/data-visualization" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Data Visualization"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel"/>
+  </a>
+</p>
 
 <!-- GitHub Stats -->
 <p align="center">
