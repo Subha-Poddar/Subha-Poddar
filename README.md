@@ -1,10 +1,9 @@
-<!-- Data Analyst Image -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="Data Analyst"  />
-</p>
+![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <!-- Introduction -->
 <h1 align="center">Hi 👋, I'm Subha Poddar</h1>
 <h3 align="center">A passionate Data Analyst enthusiast</h3>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/84115928/142569072-22fdc7ac-5815-4e96-b84d-f918a85d47ec.gif">
+
 <!-- Visitor Count -->
 <p align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=YourUsername.YourUsername" alt="visitor badge"/>
@@ -16,11 +15,6 @@
 - 💬 Ask me about **Power BI, Python, SQL, and Data Visualization**
 - 📫 How to reach me: **subhapoddar286@gmail.com**
 - ⚡ Fun fact: I love finding insights from data and exploring new data tools!
-  <!-- Cartoon Coder GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="500"/>
-</p>
-
 <!-- Connect with Me -->
 ### 🤝 Connect with Me:
 <p align="center">
