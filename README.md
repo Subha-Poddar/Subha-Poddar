@@ -61,11 +61,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subha-Poddar&layout=compact&theme=tokyonight" />
 </p>
 
-<!-- Recent Projects -->
-### 📈 My Recent Projects
-- [Walmart Retail Data Analysis](https://github.com/YourUsername/Walmart-Retail-Data-Analysis)
-- [Customer Churn Prediction](https://github.com/YourUsername/Customer-Churn-Prediction)
-- [Restaurant Business Rankings Analysis](https://github.com/YourUsername/Restaurant-Business-Rankings-Analysis)
+
 
 
 
